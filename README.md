@@ -1,6 +1,6 @@
 # todolist
 
-> 一款基于Vue2.0持久画的新手入门待办事项Demo
+> 一款基于Vue2.0持久化的新手入门待办事项Demo
 
 ## Build Setup
 
